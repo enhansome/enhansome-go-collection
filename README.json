@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T13:50:42Z",
+            "last_commit": "2026-08-15T17:55:36Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181084
+            "stars": 181142
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-31T08:41:05Z",
             "owner": "hackstoic",
             "repo": "golang-open-source-projects",
-            "stars": 11549
+            "stars": 11550
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T23:58:35Z",
+            "last_commit": "2026-08-14T23:31:40Z",
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
             "stars": 5229
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T13:02:23Z",
             "owner": "quii",
             "repo": "learn-go-with-tests",
-            "stars": 23814
+            "stars": 23821
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2025-03-20T06:31:55Z",
             "owner": "marmotedu",
             "repo": "iam",
-            "stars": 4205
+            "stars": 4207
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-06-19T08:43:07Z",
             "owner": "golang-design",
             "repo": "under-the-hood",
-            "stars": 4344
+            "stars": 4345
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-12T09:29:13Z",
             "owner": "micro",
             "repo": "go-micro",
-            "stars": 23013
+            "stars": 23015
           }
         },
         {
@@ -461,7 +461,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:33:32Z",
+            "last_commit": "2026-08-15T09:37:16Z",
             "owner": "grpc",
             "repo": "grpc-go",
             "stars": 23034
@@ -498,7 +498,7 @@
             "last_commit": "2024-05-12T00:47:46Z",
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43911
+            "stars": 43914
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2024-08-14T07:04:25Z",
             "owner": "unknwon",
             "repo": "the-way-to-go_ZH_CN",
-            "stars": 35036
+            "stars": 35037
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20082
+            "stars": 20081
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-07-13T16:08:02Z",
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19613
+            "stars": 19616
           }
         },
         {
@@ -568,7 +568,7 @@
             "last_commit": "2026-06-19T08:43:07Z",
             "owner": "golang-design",
             "repo": "under-the-hood",
-            "stars": 4344
+            "stars": 4345
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-04-15T15:10:48Z",
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17659
+            "stars": 17660
           }
         },
         {
@@ -759,10 +759,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T17:22:12Z",
+            "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135777
+            "stars": 135775
           }
         },
         {
@@ -773,10 +773,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T17:22:12Z",
+            "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135777
+            "stars": 135775
           }
         },
         {
@@ -787,10 +787,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:04:09Z",
+            "last_commit": "2026-08-15T18:03:08Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31261
+            "stars": 31265
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-14T02:06:44Z",
             "owner": "ossrs",
             "repo": "srs",
-            "stars": 29139
+            "stars": 29141
           }
         },
         {
@@ -818,7 +818,7 @@
             "last_commit": "2026-07-13T16:08:02Z",
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19613
+            "stars": 19616
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2026-07-21T09:42:31Z",
             "owner": "talkgo",
             "repo": "night",
-            "stars": 12289
+            "stars": 12290
           }
         },
         {
@@ -995,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:43:53.387Z",
+    "last_updated": "2026-08-15T22:42:01.534Z",
     "original_repository": "jiujuan/go-collection",
     "original_repository_sha": "dd4f256fcf234d627681ffcaf1fce1be85177858",
     "enhanced_repository": "enhansome/enhansome-go-collection",
