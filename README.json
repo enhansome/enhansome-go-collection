@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-18T22:23:15Z",
+            "last_commit": "2026-08-19T09:52:23Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181426
+            "stars": 181508
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64067545,
             "language": "Go",
             "last_commit": "2026-05-31T08:41:05Z",
             "owner": "hackstoic",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122404324,
             "language": null,
             "last_commit": "2025-11-25T04:43:36Z",
             "owner": "enocom",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45458578,
             "language": null,
             "last_commit": "2024-05-22T15:08:19Z",
             "owner": "jobbole",
             "repo": "awesome-go-cn",
-            "stars": 7376
+            "stars": 7377
           }
         },
         {
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193681900,
             "language": null,
-            "last_commit": "2026-08-17T23:38:54Z",
+            "last_commit": "2026-08-18T23:35:33Z",
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
             "stars": 5228
@@ -77,7 +82,7 @@
       "title": "awesome-go list"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123572362,
             "language": "Go",
             "last_commit": "2026-08-18T09:28:22Z",
             "owner": "quii",
             "repo": "learn-go-with-tests",
-            "stars": 23820
+            "stars": 23824
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8915285,
             "language": "Go",
             "last_commit": "2023-10-27T01:25:19Z",
             "owner": "unknwon",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16800723,
             "language": null,
             "last_commit": "2023-11-08T10:46:16Z",
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8816
+            "stars": 8817
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22491515,
             "language": "HTML",
             "last_commit": "2022-11-25T10:52:51Z",
             "owner": "hyper0x",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146587808,
             "language": "Go",
             "last_commit": "2025-06-07T02:37:24Z",
             "owner": "pibigstar",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150208952,
             "language": "Go",
             "last_commit": "2020-07-09T14:47:01Z",
             "owner": "bonfy",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103093768,
             "language": "Go",
             "last_commit": "2026-03-16T01:27:42Z",
             "owner": "jaywcjlove",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86470075,
             "language": null,
             "last_commit": "2019-12-25T11:23:58Z",
             "owner": "flysnoworg",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309473127,
             "language": "Go",
             "last_commit": "2020-11-07T19:56:30Z",
             "owner": "yakuter",
@@ -209,7 +223,7 @@
       "title": "go基础学习系列"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370912548,
             "language": "Go",
             "last_commit": "2025-03-20T06:31:55Z",
             "owner": "marmotedu",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162780994,
             "language": "Go",
             "last_commit": "2025-01-07T08:10:49Z",
             "owner": "Shitaibin",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202147256,
             "language": "JavaScript",
             "last_commit": "2023-05-05T02:24:30Z",
             "owner": "Bingjian-Zhu",
@@ -265,6 +282,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 196565489,
                 "language": "Go",
                 "last_commit": "2023-09-22T01:50:27Z",
                 "owner": "youngxhui",
@@ -278,7 +296,7 @@
       "title": "go项目实战"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -287,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17535332,
             "language": null,
             "last_commit": "2023-02-06T14:13:50Z",
             "owner": "qyuhen",
@@ -301,11 +320,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149249432,
             "language": "HTML",
             "last_commit": "2026-06-19T08:43:07Z",
             "owner": "golang-design",
             "repo": "under-the-hood",
-            "stars": 4346
+            "stars": 4347
           }
         },
         {
@@ -315,6 +335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128011041,
             "language": "HTML",
             "last_commit": "2022-07-18T09:30:00Z",
             "owner": "cch123",
@@ -329,6 +350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163959393,
             "language": "Go",
             "last_commit": "2024-04-18T07:24:58Z",
             "owner": "xuesongbj",
@@ -343,6 +365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725464237,
             "language": null,
             "last_commit": "2023-11-30T03:31:33Z",
             "owner": "qcrao",
@@ -354,12 +377,7 @@
       "title": "go架构和源码分析"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "微服务"
-    },
-    {
-      "description": "",
+      "description": "原 go-micro 项目变更为 asim 的个人项目，名字改为 nitro。",
       "items": [
         {
           "node_type": "item",
@@ -368,30 +386,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29217054,
             "language": "Go",
             "last_commit": "2026-08-16T09:16:49Z",
             "owner": "micro",
             "repo": "go-micro",
-            "stars": 23018
+            "stars": 23021
           }
-        },
-        {
-          "node_type": "item",
-          "title": "micro",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Learn Micro by examples",
-          "description": null,
-          "children": []
         }
       ],
       "title": "nitro"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -400,6 +407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148576574,
             "language": "Go",
             "last_commit": "2025-08-12T07:42:46Z",
             "owner": "TarsCloud",
@@ -414,6 +422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147454436,
             "language": "C++",
             "last_commit": "2026-07-18T07:33:33Z",
             "owner": "TarsCloud",
@@ -425,7 +434,7 @@
       "title": "TarsGo"
     },
     {
-      "description": "",
+      "description": "由于 go-micro 停更，中国团队基于 go-micro 1.18修改，开发了第一版 stack-rpc。该项目于 2020 年 11 月 2 日正式成立。github",
       "items": [
         {
           "node_type": "item",
@@ -434,24 +443,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 180155078,
             "language": "Go",
             "last_commit": "2021-02-02T15:01:07Z",
             "owner": "printfcoder",
             "repo": "stack-rpc-tutorials",
             "stars": 1672
           }
-        },
-        {
-          "node_type": "item",
-          "title": "stack-rpc",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Stack-Labs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -460,11 +464,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27729907,
             "language": "Go",
-            "last_commit": "2026-08-18T19:39:31Z",
+            "last_commit": "2026-08-19T07:40:42Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23036
+            "stars": 23034
           }
         },
         {
@@ -474,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59101986,
             "language": "Go",
             "last_commit": "2026-07-10T13:19:21Z",
             "owner": "smallnest",
@@ -485,7 +491,7 @@
       "title": "rpc"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -494,11 +500,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5271882,
             "language": "Go",
             "last_commit": "2024-05-12T00:47:46Z",
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43902
+            "stars": 43901
           }
         },
         {
@@ -508,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8989842,
             "language": "Go",
             "last_commit": "2024-08-14T07:04:25Z",
             "owner": "unknwon",
@@ -522,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115857954,
             "language": "Go",
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
@@ -536,11 +545,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35093606,
             "language": "Go",
             "last_commit": "2026-07-13T16:08:02Z",
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19620
+            "stars": 19621
           }
         },
         {
@@ -550,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146964440,
             "language": "Go",
             "last_commit": "2024-06-04T14:41:10Z",
             "owner": "ffhelicopter",
@@ -564,11 +575,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149249432,
             "language": "HTML",
             "last_commit": "2026-06-19T08:43:07Z",
             "owner": "golang-design",
             "repo": "under-the-hood",
-            "stars": 4346
+            "stars": 4347
           }
         },
         {
@@ -578,6 +590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163356901,
             "language": "Go",
             "last_commit": "2023-03-21T10:32:42Z",
             "owner": "hantmac",
@@ -592,6 +605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11600244,
             "language": "Go",
             "last_commit": "2016-10-19T15:28:24Z",
             "owner": "astaxie",
@@ -606,6 +620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156661475,
             "language": "Go",
             "last_commit": "2021-04-23T03:28:29Z",
             "owner": "RainbowMango",
@@ -625,6 +640,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 87167201,
                 "language": "HTML",
                 "last_commit": "2026-04-08T06:08:54Z",
                 "owner": "go101",
@@ -639,6 +655,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 140177493,
                 "language": "HTML",
                 "last_commit": "2026-07-11T16:45:41Z",
                 "owner": "golang101",
@@ -652,7 +669,7 @@
       "title": "Go开源书籍"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -661,6 +678,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157008425,
             "language": "Makefile",
             "last_commit": "2026-04-15T15:10:48Z",
             "owner": "uber-go",
@@ -675,6 +693,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281756553,
             "language": null,
             "last_commit": "2022-11-18T07:10:15Z",
             "owner": "dgryski",
@@ -686,7 +705,7 @@
       "title": "Go编码规范"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -695,6 +714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199164672,
             "language": null,
             "last_commit": "2023-12-17T14:17:40Z",
             "owner": "polaris1119",
@@ -709,6 +729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214551979,
             "language": "Go",
             "last_commit": "2026-08-18T09:02:25Z",
             "owner": "bigwhite",
@@ -728,6 +749,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 193024686,
                 "language": null,
                 "last_commit": "2022-06-21T13:03:44Z",
                 "owner": "Han-Ya-Jun",
@@ -738,6 +760,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 115844129,
             "language": null,
             "last_commit": "2023-12-22T13:55:39Z",
             "owner": "gocn",
@@ -749,7 +772,7 @@
       "title": "Go日报周刊"
     },
     {
-      "description": "",
+      "description": "返回目录",
       "items": [
         {
           "node_type": "item",
@@ -758,11 +781,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-18T21:27:39Z",
+            "last_commit": "2026-08-19T00:24:25Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135892
+            "stars": 135901
           }
         },
         {
@@ -772,11 +796,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-18T21:27:39Z",
+            "last_commit": "2026-08-19T00:24:25Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135892
+            "stars": 135901
           }
         },
         {
@@ -786,11 +811,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-18T20:22:13Z",
+            "last_commit": "2026-08-19T11:02:37Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31278
+            "stars": 31279
           }
         },
         {
@@ -800,11 +826,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34777562,
             "language": "C++",
-            "last_commit": "2026-08-18T13:10:12Z",
+            "last_commit": "2026-08-19T12:03:09Z",
             "owner": "ossrs",
             "repo": "srs",
-            "stars": 29147
+            "stars": 29149
           }
         },
         {
@@ -814,11 +841,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35093606,
             "language": "Go",
             "last_commit": "2026-07-13T16:08:02Z",
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19620
+            "stars": 19621
           }
         },
         {
@@ -828,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125642885,
             "language": "Go",
             "last_commit": "2026-07-21T09:42:31Z",
             "owner": "talkgo",
@@ -842,11 +871,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367758176,
             "language": "Go",
             "last_commit": "2026-01-03T13:47:46Z",
             "owner": "dtm-labs",
             "repo": "dtm",
-            "stars": 10904
+            "stars": 10905
           }
         },
         {
@@ -861,6 +891,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59398169,
                 "language": null,
                 "last_commit": "2022-01-05T14:13:12Z",
                 "owner": "dgryski",
@@ -871,6 +902,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 59398169,
             "language": null,
             "last_commit": "2022-01-05T14:13:12Z",
             "owner": "dgryski",
@@ -885,6 +917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233408177,
             "language": "Go",
             "last_commit": "2023-05-05T02:24:40Z",
             "owner": "darjun",
@@ -899,6 +932,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162958667,
             "language": null,
             "last_commit": "2026-05-31T09:09:06Z",
             "owner": "overnote",
@@ -913,6 +947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105425973,
             "language": "Go",
             "last_commit": "2025-08-09T09:42:35Z",
             "owner": "cristaloleg",
@@ -927,6 +962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156143281,
             "language": null,
             "last_commit": "2022-08-29T10:10:03Z",
             "owner": "llitfkitfk",
@@ -941,6 +977,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110936509,
             "language": "Shell",
             "last_commit": "2024-05-28T20:11:31Z",
             "owner": "studygolang",
@@ -955,6 +992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19860581,
             "language": null,
             "last_commit": "2021-05-19T07:35:33Z",
             "owner": "unknwon",
@@ -969,6 +1007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178395033,
             "language": "Python",
             "last_commit": "2024-03-21T05:39:04Z",
             "owner": "gocn",
@@ -983,6 +1022,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174950790,
             "language": "Go",
             "last_commit": "2021-04-25T07:49:48Z",
             "owner": "g-airport",
@@ -995,8 +1035,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:44:47.104Z",
+    "last_updated": "2026-08-19T12:29:58.662Z",
     "original_repository": "jiujuan/go-collection",
+    "original_repository_id": 195628498,
     "original_repository_sha": "dd4f256fcf234d627681ffcaf1fce1be85177858",
     "enhanced_repository": "enhansome/enhansome-go-collection",
     "enhanced_repository_description": null,
