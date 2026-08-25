@@ -48,10 +48,10 @@
             "archived": false,
             "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-24T16:07:27Z",
+            "last_commit": "2026-08-25T00:32:48Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182146
+            "stars": 182168
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-05-31T08:41:05Z",
             "owner": "hackstoic",
             "repo": "golang-open-source-projects",
-            "stars": 11555
+            "stars": 11553
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 193681900,
             "language": null,
-            "last_commit": "2026-08-23T23:37:48Z",
+            "last_commit": "2026-08-24T23:39:10Z",
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
             "stars": 5230
@@ -177,7 +177,7 @@
             "last_commit": "2022-11-25T10:52:51Z",
             "owner": "hyper0x",
             "repo": "go_command_tutorial",
-            "stars": 3449
+            "stars": 3448
           }
         },
         {
@@ -424,10 +424,10 @@
             "archived": false,
             "id": 29217054,
             "language": "Go",
-            "last_commit": "2026-08-23T14:18:28Z",
+            "last_commit": "2026-08-25T05:41:34Z",
             "owner": "micro",
             "repo": "go-micro",
-            "stars": 23039
+            "stars": 23040
           }
         }
       ],
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-24T19:54:12Z",
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33272
+            "stars": 33276
           }
         }
       ],
@@ -490,7 +490,7 @@
             "last_commit": "2026-08-19T05:14:19Z",
             "owner": "go-kratos",
             "repo": "kratos",
-            "stars": 25887
+            "stars": 25886
           }
         }
       ],
@@ -511,7 +511,7 @@
             "last_commit": "2026-08-24T21:29:38Z",
             "owner": "go-chassis",
             "repo": "go-chassis",
-            "stars": 2726
+            "stars": 2725
           }
         }
       ],
@@ -652,7 +652,7 @@
             "last_commit": "2026-08-24T15:28:09Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23031
+            "stars": 23032
           }
         },
         {
@@ -688,7 +688,7 @@
             "last_commit": "2024-05-12T00:47:46Z",
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43908
+            "stars": 43907
           }
         },
         {
@@ -703,7 +703,7 @@
             "last_commit": "2024-08-14T07:04:25Z",
             "owner": "unknwon",
             "repo": "the-way-to-go_ZH_CN",
-            "stars": 35034
+            "stars": 35033
           }
         },
         {
@@ -718,7 +718,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20087
+            "stars": 20088
           }
         },
         {
@@ -778,7 +778,7 @@
             "last_commit": "2023-03-21T10:32:42Z",
             "owner": "hantmac",
             "repo": "Mastering_Go_ZH_CN",
-            "stars": 3447
+            "stars": 3448
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2021-04-23T03:28:29Z",
             "owner": "RainbowMango",
             "repo": "GoExpertProgramming",
-            "stars": 1868
+            "stars": 1867
           }
         },
         {
@@ -828,7 +828,7 @@
                 "last_commit": "2026-04-08T06:08:54Z",
                 "owner": "go101",
                 "repo": "go101",
-                "stars": 6048
+                "stars": 6050
               }
             },
             {
@@ -866,7 +866,7 @@
             "last_commit": "2026-04-15T15:10:48Z",
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17661
+            "stars": 17660
           }
         },
         {
@@ -966,10 +966,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T21:05:43Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136397
+            "stars": 136442
           }
         },
         {
@@ -981,10 +981,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T21:05:43Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136397
+            "stars": 136442
           }
         },
         {
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-24T18:46:11Z",
+            "last_commit": "2026-08-25T02:20:13Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31308
+            "stars": 31311
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-08-20T14:49:40Z",
             "owner": "ossrs",
             "repo": "srs",
-            "stars": 29161
+            "stars": 29162
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-01-03T13:47:46Z",
             "owner": "dtm-labs",
             "repo": "dtm",
-            "stars": 10911
+            "stars": 10910
           }
         },
         {
@@ -1105,7 +1105,7 @@
             "last_commit": "2023-05-05T02:24:40Z",
             "owner": "darjun",
             "repo": "go-daily-lib",
-            "stars": 5232
+            "stars": 5231
           }
         },
         {
@@ -1218,7 +1218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:47:08.038Z",
+    "last_updated": "2026-08-25T05:52:32.062Z",
     "original_repository": "jiujuan/go-collection",
     "original_repository_id": 195628498,
     "original_repository_sha": "dd4f256fcf234d627681ffcaf1fce1be85177858",
