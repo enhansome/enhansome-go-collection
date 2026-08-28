@@ -15,8 +15,9 @@
             "last_commit": "2024-05-18T05:18:28Z",
             "owner": "jiujuan",
             "repo": "go-collection",
-            "stars": 3164
-          }
+            "stars": 3165
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-05-18T05:18:28Z",
             "owner": "jiujuan",
             "repo": "go-collection",
-            "stars": 3164
-          }
+            "stars": 3165
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "Overview"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-27T09:04:15Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182404
-          }
+            "stars": 182474
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-05-31T08:41:05Z",
             "owner": "hackstoic",
             "repo": "golang-open-source-projects",
-            "stars": 11554
-          }
+            "stars": 11556
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "enocom",
             "repo": "gopher-reading-list",
             "stars": 8043
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "jobbole",
             "repo": "awesome-go-cn",
             "stars": 7380
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-27T04:33:43Z",
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
-            "stars": 5229
-          }
+            "stars": 5230
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "awesome-go list"
@@ -133,7 +140,8 @@
             "owner": "quii",
             "repo": "learn-go-with-tests",
             "stars": 23842
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "unknwon",
             "repo": "go-fundamental-programming",
             "stars": 9120
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
             "stars": 8821
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "hyper0x",
             "repo": "go_command_tutorial",
             "stars": 3448
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "pibigstar",
             "repo": "go-demo",
             "stars": 2709
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "bonfy",
             "repo": "go-mega",
             "stars": 731
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "jaywcjlove",
             "repo": "golang-tutorial",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "flysnoworg",
             "repo": "go-in-action-notes",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "yakuter",
             "repo": "go-interfaces",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "go基础学习系列"
@@ -273,8 +289,9 @@
             "last_commit": "2025-03-20T06:31:55Z",
             "owner": "marmotedu",
             "repo": "iam",
-            "stars": 4205
-          }
+            "stars": 4206
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "Shitaibin",
             "repo": "golang_step_by_step",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "Bingjian-Zhu",
             "repo": "gin-vue",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "group",
@@ -324,7 +343,8 @@
                 "owner": "youngxhui",
                 "repo": "GinHello",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T06:10:14.021Z"
             }
           ]
         }
@@ -347,7 +367,8 @@
             "owner": "qyuhen",
             "repo": "book",
             "stars": 12505
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -362,7 +383,8 @@
             "owner": "golang-design",
             "repo": "under-the-hood",
             "stars": 4347
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -377,7 +399,8 @@
             "owner": "cch123",
             "repo": "golang-notes",
             "stars": 4024
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -392,7 +415,8 @@
             "owner": "xuesongbj",
             "repo": "Go-Notes",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -407,7 +431,8 @@
             "owner": "qcrao",
             "repo": "go-questions",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "go架构和源码分析"
@@ -427,8 +452,9 @@
             "last_commit": "2026-08-25T06:03:58Z",
             "owner": "micro",
             "repo": "go-micro",
-            "stars": 23043
-          }
+            "stars": 23045
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "nitro"
@@ -449,7 +475,8 @@
             "owner": "go-kit",
             "repo": "kit",
             "stars": 27422
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "go-kit"
@@ -466,11 +493,12 @@
             "archived": false,
             "id": 285864199,
             "language": "Go",
-            "last_commit": "2026-08-24T19:54:12Z",
+            "last_commit": "2026-08-27T19:52:46Z",
             "owner": "zeromicro",
             "repo": "go-zero",
             "stars": 33281
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "go-zero"
@@ -490,8 +518,9 @@
             "last_commit": "2026-08-19T05:14:19Z",
             "owner": "go-kratos",
             "repo": "kratos",
-            "stars": 25892
-          }
+            "stars": 25897
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "kratos"
@@ -512,7 +541,8 @@
             "owner": "go-chassis",
             "repo": "go-chassis",
             "stars": 2725
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "go-chassis"
@@ -529,11 +559,12 @@
             "archived": false,
             "id": 243518322,
             "language": "Go",
-            "last_commit": "2026-08-25T16:23:07Z",
+            "last_commit": "2026-08-27T16:14:11Z",
             "owner": "douyu",
             "repo": "jupiter",
             "stars": 4565
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "Jupiter"
@@ -554,7 +585,8 @@
             "owner": "TarsCloud",
             "repo": "TarsGo",
             "stars": 3371
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -569,7 +601,8 @@
             "owner": "TarsCloud",
             "repo": "TarsFramework",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "TarsGo"
@@ -590,7 +623,8 @@
             "owner": "printfcoder",
             "repo": "stack-rpc-tutorials",
             "stars": 1672
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "Stack-Labs"
@@ -611,7 +645,8 @@
             "owner": "nytimes",
             "repo": "gizmo",
             "stars": 3772
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "gizmo"
@@ -632,7 +667,8 @@
             "owner": "tal-tech",
             "repo": "odin",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "odin"
@@ -649,11 +685,12 @@
             "archived": false,
             "id": 27729907,
             "language": "Go",
-            "last_commit": "2026-08-27T11:39:40Z",
+            "last_commit": "2026-08-27T13:16:15Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23037
-          }
+            "stars": 23041
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -668,7 +705,8 @@
             "owner": "smallnest",
             "repo": "rpcx",
             "stars": 8312
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "rpc"
@@ -689,7 +727,8 @@
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
             "stars": 43907
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -704,7 +743,8 @@
             "owner": "unknwon",
             "repo": "the-way-to-go_ZH_CN",
             "stars": 35033
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -719,7 +759,8 @@
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
             "stars": 20092
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -733,8 +774,9 @@
             "last_commit": "2026-07-13T16:08:02Z",
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19634
-          }
+            "stars": 19638
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -748,8 +790,9 @@
             "last_commit": "2024-06-04T14:41:10Z",
             "owner": "ffhelicopter",
             "repo": "Go42",
-            "stars": 5181
-          }
+            "stars": 5180
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -764,7 +807,8 @@
             "owner": "golang-design",
             "repo": "under-the-hood",
             "stars": 4347
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -779,7 +823,8 @@
             "owner": "hantmac",
             "repo": "Mastering_Go_ZH_CN",
             "stars": 3447
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -794,7 +839,8 @@
             "owner": "astaxie",
             "repo": "go-best-practice",
             "stars": 3435
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -809,7 +855,8 @@
             "owner": "RainbowMango",
             "repo": "GoExpertProgramming",
             "stars": 1867
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "group",
@@ -829,7 +876,8 @@
                 "owner": "go101",
                 "repo": "go101",
                 "stars": 6050
-              }
+              },
+              "first_seen": "2026-08-28T06:10:14.021Z"
             },
             {
               "node_type": "item",
@@ -844,7 +892,8 @@
                 "owner": "golang101",
                 "repo": "golang101",
                 "stars": 5030
-              }
+              },
+              "first_seen": "2026-08-28T06:10:14.021Z"
             }
           ]
         }
@@ -866,8 +915,9 @@
             "last_commit": "2026-04-15T15:10:48Z",
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17665
-          }
+            "stars": 17668
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -882,7 +932,8 @@
             "owner": "dgryski",
             "repo": "awesome-go-style",
             "stars": 983
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "Go编码规范"
@@ -903,7 +954,8 @@
             "owner": "polaris1119",
             "repo": "golangweekly",
             "stars": 2252
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -918,7 +970,8 @@
             "owner": "bigwhite",
             "repo": "gopherdaily",
             "stars": 1071
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -938,7 +991,8 @@
                 "owner": "Han-Ya-Jun",
                 "repo": "gocn_news_set",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T06:10:14.021Z"
             }
           ],
           "repo_info": {
@@ -949,7 +1003,8 @@
             "owner": "gocn",
             "repo": "news",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "Go日报周刊"
@@ -966,11 +1021,12 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-28T04:10:11Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
-          }
+            "stars": 136552
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -981,11 +1037,12 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-28T04:10:11Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
-          }
+            "stars": 136552
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -996,11 +1053,12 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-27T08:17:15Z",
+            "last_commit": "2026-08-28T03:03:35Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31330
-          }
+            "stars": 31341
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1014,8 +1072,9 @@
             "last_commit": "2026-08-26T15:30:55Z",
             "owner": "ossrs",
             "repo": "srs",
-            "stars": 29173
-          }
+            "stars": 29175
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1029,8 +1088,9 @@
             "last_commit": "2026-07-13T16:08:02Z",
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19634
-          }
+            "stars": 19638
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1105,8 @@
             "owner": "talkgo",
             "repo": "night",
             "stars": 12290
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1059,8 +1120,9 @@
             "last_commit": "2026-01-03T13:47:46Z",
             "owner": "dtm-labs",
             "repo": "dtm",
-            "stars": 10911
-          }
+            "stars": 10910
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1080,7 +1142,8 @@
                 "owner": "dgryski",
                 "repo": "go-perfbook",
                 "stars": 10896
-              }
+              },
+              "first_seen": "2026-08-28T06:10:14.021Z"
             }
           ],
           "repo_info": {
@@ -1091,7 +1154,8 @@
             "owner": "dgryski",
             "repo": "go-perfbook",
             "stars": 10896
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1106,7 +1170,8 @@
             "owner": "darjun",
             "repo": "go-daily-lib",
             "stars": 5231
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1121,7 +1186,8 @@
             "owner": "overnote",
             "repo": "over-golang",
             "stars": 4473
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1135,8 +1201,9 @@
             "last_commit": "2025-08-09T09:42:35Z",
             "owner": "cristaloleg",
             "repo": "go-advice",
-            "stars": 3292
-          }
+            "stars": 3293
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1151,7 +1218,8 @@
             "owner": "llitfkitfk",
             "repo": "go-best-practice",
             "stars": 2319
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1166,7 +1234,8 @@
             "owner": "studygolang",
             "repo": "GCTT",
             "stars": 1372
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1181,7 +1250,8 @@
             "owner": "unknwon",
             "repo": "go-code-convention",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1196,7 +1266,8 @@
             "owner": "gocn",
             "repo": "translator",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         },
         {
           "node_type": "item",
@@ -1211,14 +1282,15 @@
             "owner": "g-airport",
             "repo": "tech-stack",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T06:10:14.021Z"
         }
       ],
       "title": "其他"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:43.358Z",
+    "last_updated": "2026-08-28T06:10:14.021Z",
     "original_repository_info": {
       "archived": false,
       "id": 195628498,
@@ -1226,7 +1298,7 @@
       "last_commit": "2024-05-18T05:18:28Z",
       "owner": "jiujuan",
       "repo": "go-collection",
-      "stars": 3164
+      "stars": 3165
     },
     "original_repository_sha": "dd4f256fcf234d627681ffcaf1fce1be85177858",
     "enhanced_repository": "enhansome/enhansome-go-collection",
