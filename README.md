@@ -87,11 +87,11 @@
 
 ## awesome-go list
 
-* [awesome-go github地址](https://github.com/avelino/awesome-Go) ⭐ 182,557 | 🐛 219 | 🌐 Go | 📅 2026-08-28 awesome-go.com的github源码地址
+* [awesome-go github地址](https://github.com/avelino/awesome-Go) ⭐ 182,558 | 🐛 219 | 🌐 Go | 📅 2026-08-28 awesome-go.com的github源码地址
 * [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) ⭐ 11,557 | 🐛 31 | 🌐 Go | 📅 2026-05-31 awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展
 * [gopher reading list](https://github.com/enocom/gopher-reading-list) ⭐ 8,043 | 🐛 30 | 📅 2025-11-25
 * [awesome-go 中文翻译1](https://github.com/jobbole/awesome-go-cn) ⭐ 7,380 | 🐛 15 | 📅 2024-05-22
-* [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn) ⭐ 5,230 | 🐛 219 | 📅 2026-08-28
+* [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn) ⭐ 5,230 | 🐛 220 | 📅 2026-08-29
 * [awesome-go 网站](https://awesome-go.com/)   收集很多go的项目，并进行了详细分类
 
 ## go存储项目
@@ -275,7 +275,7 @@
 
 ## Go开源书籍
 
-* [Go Web编程](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,908 | 🐛 138 | 🌐 Go | 📅 2024-05-12
+* [Go Web编程](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,907 | 🐛 138 | 🌐 Go | 📅 2024-05-12
 * [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN) ⭐ 35,031 | 🐛 46 | 🌐 Go | 📅 2024-08-14
   * [看云版](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
 * [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md) ⭐ 20,093 | 🐛 61 | 🌐 Go | 📅 2025-10-07
@@ -320,7 +320,7 @@
 
 ## Go交流社区
 
-* [Go issues](https://github.com/golang/go/issues) ⭐ 136,563 | 🐛 10,082 | 🌐 Go | 📅 2026-08-28
+* [Go issues](https://github.com/golang/go/issues) ⭐ 136,563 | 🐛 10,085 | 🌐 Go | 📅 2026-08-28
 * [GoCN社区](https://gocn.vip/)
 * [Go语言中文网](https://studygolang.com/)
 * [Golang中国](https://www.golangtc.com/)
@@ -330,9 +330,9 @@
 
 ## 其他
 
-* [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 136,563 | 🐛 10,082 | 🌐 Go | 📅 2026-08-28
+* [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 136,563 | 🐛 10,085 | 🌐 Go | 📅 2026-08-28
 
-* [Go wiki](https://github.com/golang/go/wiki) ⭐ 136,563 | 🐛 10,082 | 🌐 Go | 📅 2026-08-28
+* [Go wiki](https://github.com/golang/go/wiki) ⭐ 136,563 | 🐛 10,085 | 🌐 Go | 📅 2026-08-28
 
 * [测试工具 k6](https://github.com/grafana/k6) ⭐ 31,349 | 🐛 799 | 🌐 Go | 📅 2026-08-29
 
