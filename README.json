@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
+            "homepage": null,
             "id": 195628498,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-05-18T05:18:28Z",
+            "open_issues": 0,
             "owner": "jiujuan",
             "repo": "go-collection",
-            "stars": 3165
+            "stars": 3165,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "course",
+              "gin",
+              "go",
+              "golang",
+              "guidelines",
+              "kit",
+              "micro",
+              "note",
+              "tour",
+              "training",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -26,12 +45,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
+            "homepage": null,
             "id": 195628498,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-05-18T05:18:28Z",
+            "open_issues": 0,
             "owner": "jiujuan",
             "repo": "go-collection",
-            "stars": 3165
+            "stars": 3165,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "course",
+              "gin",
+              "go",
+              "golang",
+              "guidelines",
+              "kit",
+              "micro",
+              "note",
+              "tour",
+              "training",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -48,12 +86,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "homepage": "https://awesome-go.com",
             "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-27T09:04:15Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:52:34Z",
+            "open_issues": 219,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182474
+            "stars": 182557,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "go",
+              "golang",
+              "golang-library",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -64,12 +114,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "为互联网IT人打造的中文版awesome-go",
+            "homepage": null,
             "id": 64067545,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-05-31T08:41:05Z",
+            "open_issues": 31,
             "owner": "hackstoic",
             "repo": "golang-open-source-projects",
-            "stars": 11556
+            "stars": 11557,
+            "topics": [
+              "awesome",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -80,12 +138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated selection of blog posts on Go",
+            "homepage": null,
             "id": 122404324,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-11-25T04:43:36Z",
+            "open_issues": 30,
             "owner": "enocom",
             "repo": "gopher-reading-list",
-            "stars": 8043
+            "stars": 8043,
+            "topics": [
+              "blog-posts",
+              "go",
+              "golang",
+              "reading-list"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -96,12 +164,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。",
+            "homepage": null,
             "id": 45458578,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-22T15:08:19Z",
+            "open_issues": 15,
             "owner": "jobbole",
             "repo": "awesome-go-cn",
-            "stars": 7380
+            "stars": 7380,
+            "topics": [
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -112,12 +188,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~",
+            "homepage": "https://awesome-go.cn",
             "id": 193681900,
             "language": null,
-            "last_commit": "2026-08-27T04:33:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T06:57:58Z",
+            "open_issues": 219,
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
-            "stars": 5230
+            "stars": 5230,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cn-doc",
+              "go",
+              "golang",
+              "golang-library"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -134,12 +222,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Go with test-driven development",
+            "homepage": null,
             "id": 123572362,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:41:47Z",
+            "open_issues": 2,
             "owner": "quii",
             "repo": "learn-go-with-tests",
-            "stars": 23842
+            "stars": 23842,
+            "topics": [
+              "go",
+              "golang",
+              "tdd",
+              "test-driven-development",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -150,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。",
+            "homepage": null,
             "id": 8915285,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-10-27T01:25:19Z",
+            "open_issues": 2,
             "owner": "unknwon",
             "repo": "go-fundamental-programming",
-            "stars": 9120
+            "stars": 9120,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -166,12 +270,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overview of Go syntax and features.",
+            "homepage": null,
             "id": 16800723,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-08T10:46:16Z",
+            "open_issues": 24,
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8821
+            "stars": 8820,
+            "topics": [
+              "cheat-sheets",
+              "cheatsheet",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -182,12 +296,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang command tutorial in Chinese.",
+            "homepage": "https://hyper0x.github.io/go_command_tutorial",
             "id": 22491515,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-25T10:52:51Z",
+            "open_issues": 0,
             "owner": "hyper0x",
             "repo": "go_command_tutorial",
-            "stars": 3448
+            "stars": 3448,
+            "topics": [
+              "command",
+              "go",
+              "golang",
+              "tool",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -198,12 +323,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等",
+            "homepage": "https://pibigstar.github.io",
             "id": 146587808,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-07T02:37:24Z",
+            "open_issues": 2,
             "owner": "pibigstar",
             "repo": "go-demo",
-            "stars": 2709
+            "stars": 2709,
+            "topics": [
+              "blockchain",
+              "design",
+              "go",
+              "go-demo",
+              "go-design",
+              "go-utils",
+              "goutils",
+              "interview",
+              "kafaka",
+              "leetcode",
+              "oss",
+              "pprof",
+              "qq",
+              "redis",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -214,12 +360,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com",
+            "homepage": "https://go-mega.bonfy.im",
             "id": 150208952,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-09T14:47:01Z",
+            "open_issues": 1,
             "owner": "bonfy",
             "repo": "go-mega",
-            "stars": 731
+            "stars": 731,
+            "topics": [
+              "go",
+              "go-mega",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -230,12 +385,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go语言快速入门",
+            "homepage": "https://jaywcjlove.github.io/golang-tutorial",
             "id": 103093768,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-16T01:27:42Z",
+            "open_issues": 2,
             "owner": "jaywcjlove",
             "repo": "golang-tutorial",
-            "stars": 560
+            "stars": 560,
+            "topics": [
+              "go",
+              "golang",
+              "golang-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -246,12 +410,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go语言实战读书笔记系列合集",
+            "homepage": "http://www.flysnow.org/",
             "id": 86470075,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-12-25T11:23:58Z",
+            "open_issues": 1,
             "owner": "flysnoworg",
             "repo": "go-in-action-notes",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "flysnow",
+              "go",
+              "go-in-action",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -262,12 +436,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repos has lots of Go interface usage and best practice examples ",
+            "homepage": null,
             "id": 309473127,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-11-07T19:56:30Z",
+            "open_issues": 0,
             "owner": "yakuter",
             "repo": "go-interfaces",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "best-practices",
+              "examples",
+              "go",
+              "golang",
+              "interface",
+              "method",
+              "usage"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -284,12 +471,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "企业级的 Go 语言实战项目：认证和授权系统（带配套课程）",
+            "homepage": "https://konglingfei.com",
             "id": 370912548,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-20T06:31:55Z",
+            "open_issues": 25,
             "owner": "marmotedu",
             "repo": "iam",
-            "stars": 4206
+            "stars": 4206,
+            "topics": [
+              "application",
+              "authentication",
+              "authorization",
+              "gin",
+              "go",
+              "golang",
+              "gorm",
+              "iam",
+              "project"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -300,12 +502,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang入门教程的文章、示例代码，喜欢就star，订阅就watch",
+            "homepage": "http://www.lessisbetter.site",
             "id": 162780994,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-01-07T08:10:49Z",
+            "open_issues": 3,
             "owner": "Shitaibin",
             "repo": "golang_step_by_step",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "backend",
+              "channel",
+              "concurrency",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -316,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gin+gorm+jwt+vue",
+            "homepage": "https://www.cnblogs.com/FireworksEasyCool/p/11385271.html",
             "id": 202147256,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-05T02:24:30Z",
+            "open_issues": 3,
             "owner": "Bingjian-Zhu",
             "repo": "gin-vue",
-            "stars": 377
+            "stars": 377,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -337,12 +554,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gin 学习示例代码 ",
+                "homepage": "https://youngxhui.top/categories/gin/",
                 "id": 196565489,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-22T01:50:27Z",
+                "open_issues": 4,
                 "owner": "youngxhui",
                 "repo": "GinHello",
-                "stars": 314
+                "stars": 314,
+                "topics": [
+                  "docker",
+                  "gin",
+                  "gin-html",
+                  "gin-middleware",
+                  "gin-mysql",
+                  "gin-router",
+                  "jwt"
+                ]
               },
               "first_seen": "2026-08-28T06:10:14.021Z"
             }
@@ -361,12 +591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "学习笔记",
+            "homepage": null,
             "id": 17535332,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-06T14:13:50Z",
+            "open_issues": 37,
             "owner": "qyuhen",
             "repo": "book",
-            "stars": 12505
+            "stars": 12504,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -377,12 +612,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood",
+            "homepage": "https://golang.design/under-the-hood",
             "id": 149249432,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:59:13Z",
+            "open_issues": 0,
             "owner": "golang-design",
             "repo": "under-the-hood",
-            "stars": 4347
+            "stars": 4347,
+            "topics": [
+              "go",
+              "golang",
+              "source-code-study"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -393,12 +637,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go source code analysis(zh-cn)",
+            "homepage": null,
             "id": 128011041,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-18T09:30:00Z",
+            "open_issues": 16,
             "owner": "cch123",
             "repo": "golang-notes",
-            "stars": 4024
+            "stars": 4024,
+            "topics": [
+              "code",
+              "go",
+              "golang",
+              "reading",
+              "runtime",
+              "source"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -409,12 +665,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Go学习笔记 📖 ",
+            "homepage": null,
             "id": 163959393,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-18T07:24:58Z",
+            "open_issues": 1,
             "owner": "xuesongbj",
             "repo": "Go-Notes",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "go-notes",
+              "golang",
+              "runtime"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -425,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions",
+            "homepage": "https://golang.design/go-questions",
             "id": 725464237,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-11-30T03:31:33Z",
+            "open_issues": 0,
             "owner": "qcrao",
             "repo": "go-questions",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -447,12 +717,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Go agent harness and service framework",
+            "homepage": "https://go-micro.dev",
             "id": 29217054,
             "language": "Go",
-            "last_commit": "2026-08-25T06:03:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:28:26Z",
+            "open_issues": 8,
             "owner": "micro",
             "repo": "go-micro",
-            "stars": 23045
+            "stars": 23047,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "distributed-systems",
+              "go",
+              "golang",
+              "mcp",
+              "micro",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -469,12 +753,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standard library for microservices.",
+            "homepage": "https://gokit.io",
             "id": 30215630,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-19T01:40:06Z",
+            "open_issues": 60,
             "owner": "go-kit",
             "repo": "kit",
-            "stars": 27422
+            "stars": 27422,
+            "topics": [
+              "go",
+              "golang",
+              "metallica",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -491,12 +785,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+            "homepage": "https://go-zero.dev",
             "id": 285864199,
             "language": "Go",
-            "last_commit": "2026-08-27T19:52:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:46:53Z",
+            "open_issues": 262,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33281
+            "stars": 33285,
+            "topics": [
+              "ai-native",
+              "ai-native-development",
+              "cloud-native",
+              "code-generation",
+              "framework",
+              "gateway",
+              "go",
+              "golang",
+              "grpc-gateway",
+              "microservice",
+              "microservice-framework",
+              "microservices",
+              "microservices-architecture",
+              "rest-api",
+              "restful",
+              "restful-api",
+              "rpc",
+              "rpc-framework",
+              "spec-driven-development",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -513,12 +833,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your ultimate Go microservices framework for the cloud-native era.",
+            "homepage": "https://go-kratos.dev",
             "id": 165041732,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T05:14:19Z",
+            "open_issues": 110,
             "owner": "go-kratos",
             "repo": "kratos",
-            "stars": 25897
+            "stars": 25901,
+            "topics": [
+              "ai",
+              "architecture",
+              "cloud-native",
+              "framework",
+              "generate",
+              "go",
+              "golang",
+              "grpc",
+              "http",
+              "kratos",
+              "mcp",
+              "microservice",
+              "microservices",
+              "protobuf"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -535,12 +875,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a cloud native application framework for Go with rich eco-system",
+            "homepage": null,
             "id": 117545507,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:29:38Z",
+            "open_issues": 45,
             "owner": "go-chassis",
             "repo": "go-chassis",
-            "stars": 2725
+            "stars": 2725,
+            "topics": [
+              "circuit-breaker",
+              "cloud-native",
+              "distributed-systems",
+              "framework",
+              "go",
+              "go-restful",
+              "grpc",
+              "istio",
+              "kubernetes",
+              "microservice",
+              "restful",
+              "servicecomb",
+              "servicemesh"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -557,12 +916,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupiter: Governance-oriented Microservice Framework.",
+            "homepage": "http://jupiter.douyu.com",
             "id": 243518322,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:14:11Z",
+            "open_issues": 15,
             "owner": "douyu",
             "repo": "jupiter",
-            "stars": 4565
+            "stars": 4565,
+            "topics": [
+              "douyu",
+              "douyutv",
+              "etcd",
+              "go",
+              "golang",
+              "governance",
+              "grpc",
+              "jupiter",
+              "metrics",
+              "microservice",
+              "trace",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -579,12 +956,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A  high performance microservice  framework  in golang. A linux foundation project.",
+            "homepage": null,
             "id": 148576574,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-12T07:42:46Z",
+            "open_issues": 12,
             "owner": "TarsCloud",
             "repo": "TarsGo",
-            "stars": 3371
+            "stars": 3371,
+            "topics": [
+              "golang",
+              "high-performance",
+              "microservices",
+              "rpc",
+              "tars",
+              "tars-foundation"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -595,12 +984,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tars Basic service framework",
+            "homepage": null,
             "id": 147454436,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-18T07:33:33Z",
+            "open_issues": 23,
             "owner": "TarsCloud",
             "repo": "TarsFramework",
-            "stars": 205
+            "stars": 206,
+            "topics": [
+              "microservice",
+              "tars",
+              "tars-foundation"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -617,12 +1015,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Stack-RPC 中文示例、教程、资料，源码解读",
+            "homepage": "https://stacklabs.cn",
             "id": 180155078,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-02T15:01:07Z",
+            "open_issues": 6,
             "owner": "printfcoder",
             "repo": "stack-rpc-tutorials",
-            "stars": 1672
+            "stars": 1672,
+            "topics": [
+              "golang",
+              "micro",
+              "microservice",
+              "stackrpc"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -639,12 +1047,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Microservice Toolkit from The New York Times",
+            "homepage": "https://open.nytimes.com/introducing-gizmo-aa7ea463b208",
             "id": 48060472,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-18T21:07:31Z",
+            "open_issues": 32,
             "owner": "nytimes",
             "repo": "gizmo",
-            "stars": 3772
+            "stars": 3772,
+            "topics": [
+              "gizmo",
+              "go",
+              "google-pubsub",
+              "googlecloud",
+              "http-server",
+              "kafka",
+              "pubsub",
+              "sns",
+              "sqs"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -661,12 +1084,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odin is a Rpcx-based rpc framework, reference rpcx https://rpcx.io/",
+            "homepage": "https://www.yuque.com/tal-tech/odin",
             "id": 282787390,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-29T12:45:46Z",
+            "open_issues": 3,
             "owner": "tal-tech",
             "repo": "odin",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "go",
+              "go-micro",
+              "microservice",
+              "rpc",
+              "rpcx"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -683,12 +1117,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+            "homepage": "https://grpc.io",
             "id": 27729907,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T13:16:15Z",
+            "open_issues": 131,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23041
+            "stars": 23041,
+            "topics": [
+              "dogs-over-cats",
+              "giant-robots",
+              "go",
+              "golang",
+              "grpc",
+              "hacktoberfest",
+              "microservices",
+              "not-nanoservices",
+              "proto",
+              "rpc"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -699,12 +1149,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!",
+            "homepage": "https://rpcx.io",
             "id": 59101986,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T13:19:21Z",
+            "open_issues": 4,
             "owner": "smallnest",
             "repo": "rpcx",
-            "stars": 8312
+            "stars": 8312,
+            "topics": [
+              "dubbo",
+              "grpc",
+              "microservice",
+              "microservices",
+              "rpc",
+              "service-discovery"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -721,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A golang ebook intro how to build a web with golang",
+            "homepage": null,
             "id": 5271882,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-12T00:47:46Z",
+            "open_issues": 138,
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43907
+            "stars": 43908,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -737,12 +1204,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+            "homepage": null,
             "id": 8989842,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-08-14T07:04:25Z",
+            "open_issues": 46,
             "owner": "unknwon",
             "repo": "the-way-to-go_ZH_CN",
-            "stars": 35033
+            "stars": 35031,
+            "topics": [
+              "book",
+              "go",
+              "translation",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -753,12 +1230,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+            "homepage": "https://chai2010.cn/advanced-go-programming-book/",
             "id": 115857954,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-10-07T01:08:59Z",
+            "open_issues": 61,
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20092
+            "stars": 20093,
+            "topics": [
+              "asm",
+              "book",
+              "cgo",
+              "cloud",
+              "go",
+              "golang",
+              "programming-language",
+              "rpc",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -769,12 +1261,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Golang books",
+            "homepage": null,
             "id": 35093606,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-13T16:08:02Z",
+            "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19638
+            "stars": 19641,
+            "topics": [
+              "awesome",
+              "awesome-go",
+              "awesome-golang",
+              "awesome-list",
+              "awesome-lists",
+              "book",
+              "books",
+              "development",
+              "devops",
+              "go",
+              "go-books",
+              "gobooks",
+              "golang",
+              "golang-books",
+              "list",
+              "resources",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -785,12 +1300,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。",
+            "homepage": null,
             "id": 146964440,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-06-04T14:41:10Z",
+            "open_issues": 6,
             "owner": "ffhelicopter",
             "repo": "Go42",
-            "stars": 5180
+            "stars": 5180,
+            "topics": [
+              "book",
+              "go",
+              "go42",
+              "golang",
+              "gopher"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -801,12 +1327,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood",
+            "homepage": "https://golang.design/under-the-hood",
             "id": 149249432,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:59:13Z",
+            "open_issues": 0,
             "owner": "golang-design",
             "repo": "under-the-hood",
-            "stars": 4347
+            "stars": 4347,
+            "topics": [
+              "go",
+              "golang",
+              "source-code-study"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -817,12 +1352,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《Mastering GO》中文译本，《玩转 GO》。",
+            "homepage": null,
             "id": 163356901,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-21T10:32:42Z",
+            "open_issues": 2,
             "owner": "hantmac",
             "repo": "Mastering_Go_ZH_CN",
-            "stars": 3447
+            "stars": 3448,
+            "topics": [
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -833,12 +1375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trying to complete over 100 projects in various categories in golang.",
+            "homepage": null,
             "id": 11600244,
             "language": "Go",
+            "license": null,
             "last_commit": "2016-10-19T15:28:24Z",
+            "open_issues": 10,
             "owner": "astaxie",
             "repo": "go-best-practice",
-            "stars": 3435
+            "stars": 3435,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -849,12 +1396,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《Go专家编程》Go语言快速入门，轻松进阶！",
+            "homepage": null,
             "id": 156661475,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-04-23T03:28:29Z",
+            "open_issues": 26,
             "owner": "RainbowMango",
             "repo": "GoExpertProgramming",
-            "stars": 1867
+            "stars": 1866,
+            "topics": [
+              "expert",
+              "go",
+              "golang",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -870,12 +1427,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An up-to-date (unofficial) knowledge base for Go programming self learning",
+                "homepage": "https://go101.org",
                 "id": 87167201,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-08T06:08:54Z",
+                "open_issues": 12,
                 "owner": "go101",
                 "repo": "go101",
-                "stars": 6050
+                "stars": 6049,
+                "topics": [
+                  "book",
+                  "details",
+                  "faq",
+                  "go",
+                  "golang",
+                  "optimizations",
+                  "semantics",
+                  "syntax",
+                  "tips"
+                ]
               },
               "first_seen": "2026-08-28T06:10:14.021Z"
             },
@@ -886,12 +1458,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go语言101 : 一个与时俱进的Go编程知识库",
+                "homepage": "https://gfw.go101.org",
                 "id": 140177493,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-11T16:45:41Z",
+                "open_issues": 9,
                 "owner": "golang101",
                 "repo": "golang101",
-                "stars": 5030
+                "stars": 5030,
+                "topics": [
+                  "book",
+                  "go",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T06:10:14.021Z"
             }
@@ -910,12 +1491,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Uber Go Style Guide.",
+            "homepage": null,
             "id": 157008425,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-15T15:10:48Z",
+            "open_issues": 39,
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17668
+            "stars": 17666,
+            "topics": [
+              "best-practices",
+              "go",
+              "golang",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -926,12 +1517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Go style guides",
+            "homepage": null,
             "id": 281756553,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-18T07:10:15Z",
+            "open_issues": 6,
             "owner": "dgryski",
             "repo": "awesome-go-style",
-            "stars": 983
+            "stars": 983,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -948,12 +1544,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go语言爱好者周刊，每周日发布",
+            "homepage": "https://studygolang.com/go/weekly",
             "id": 199164672,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-17T14:17:40Z",
+            "open_issues": 30,
             "owner": "polaris1119",
             "repo": "golangweekly",
-            "stars": 2252
+            "stars": 2252,
+            "topics": [
+              "go",
+              "golang",
+              "weekly"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -964,12 +1569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the archive of gopher daily articles",
+            "homepage": "https://gopherdaily.tonybai.com",
             "id": 214551979,
             "language": "Go",
-            "last_commit": "2026-08-27T11:04:58Z",
+            "license": null,
+            "last_commit": "2026-08-28T09:57:14Z",
+            "open_issues": 0,
             "owner": "bigwhite",
             "repo": "gopherdaily",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "daily",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -985,24 +1599,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "爬取go中国技术社区(https://gocn.vip/topics/node18 )的每日新闻和go语言中文网（每日资讯)(https://studygolang.com/go/godaily  和  gopher Daily(https://gopher-daily.com/) 自动归档",
+                "homepage": "https://github.com/Han-Ya-Jun/gocn_news_set",
                 "id": 193024686,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-21T13:03:44Z",
+                "open_issues": 2,
                 "owner": "Han-Ya-Jun",
                 "repo": "gocn_news_set",
-                "stars": 239
+                "stars": 239,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:14.021Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "GoCN 每日新闻",
+            "homepage": null,
             "id": 115844129,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-22T13:55:39Z",
+            "open_issues": 5,
             "owner": "gocn",
             "repo": "news",
-            "stars": 750
+            "stars": 750,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -1019,12 +1643,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Go programming language",
+            "homepage": "https://go.dev",
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-28T04:10:11Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:42:41Z",
+            "open_issues": 10082,
             "owner": "golang",
             "repo": "go",
-            "stars": 136552
+            "stars": 136563,
+            "topics": [
+              "go",
+              "golang",
+              "language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1035,12 +1669,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Go programming language",
+            "homepage": "https://go.dev",
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-28T04:10:11Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:42:41Z",
+            "open_issues": 10082,
             "owner": "golang",
             "repo": "go",
-            "stars": 136552
+            "stars": 136563,
+            "topics": [
+              "go",
+              "golang",
+              "language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1051,12 +1695,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern load testing tool, using Go and JavaScript",
+            "homepage": "https://grafana.com/oss/k6/",
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-28T03:03:35Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:45:50Z",
+            "open_issues": 799,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31341
+            "stars": 31349,
+            "topics": [
+              "es6",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "javascript",
+              "k6",
+              "load-generator",
+              "load-testing",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1067,12 +1726,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+            "homepage": "https://ossrs.io",
             "id": 34777562,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:30:55Z",
+            "open_issues": 6,
             "owner": "ossrs",
             "repo": "srs",
-            "stars": 29175
+            "stars": 29178,
+            "topics": [
+              "ai-driven",
+              "audio",
+              "c-plus-plus",
+              "dash",
+              "hevc",
+              "hls",
+              "live",
+              "live-streaming",
+              "low-latency",
+              "media-server",
+              "multimedia",
+              "prometheus-exporter",
+              "rtmp",
+              "server-side",
+              "srt",
+              "streaming",
+              "video",
+              "video-conferencing",
+              "video-streaming",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1083,12 +1768,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Golang books",
+            "homepage": null,
             "id": 35093606,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-13T16:08:02Z",
+            "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19638
+            "stars": 19641,
+            "topics": [
+              "awesome",
+              "awesome-go",
+              "awesome-golang",
+              "awesome-list",
+              "awesome-lists",
+              "book",
+              "books",
+              "development",
+              "devops",
+              "go",
+              "go-books",
+              "gobooks",
+              "golang",
+              "golang-books",
+              "list",
+              "resources",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1099,12 +1807,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。",
+            "homepage": "https://talkgo.org",
             "id": 125642885,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-21T09:42:31Z",
+            "open_issues": 13,
             "owner": "talkgo",
             "repo": "night",
-            "stars": 12290
+            "stars": 12290,
+            "topics": [
+              "bilibili",
+              "bilibili-live",
+              "daily",
+              "discuss",
+              "go",
+              "golang",
+              "gopher",
+              "learning",
+              "offline",
+              "online",
+              "reading",
+              "reading-go",
+              "share",
+              "shenzhen",
+              "slack",
+              "study",
+              "wechat",
+              "zoom",
+              "zoom-us"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1115,12 +1848,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",
+            "homepage": "http://d.dtm.pub",
             "id": 367758176,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-03T13:47:46Z",
+            "open_issues": 87,
             "owner": "dtm-labs",
             "repo": "dtm",
-            "stars": 10910
+            "stars": 10911,
+            "topics": [
+              "cadence",
+              "csharp",
+              "database",
+              "distributed",
+              "distributed-transactions",
+              "dtm",
+              "go",
+              "golang",
+              "java",
+              "microservice",
+              "outbox",
+              "saga",
+              "seata",
+              "tcc",
+              "transaction",
+              "transactions",
+              "workflow-engine",
+              "xa"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1136,24 +1893,44 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thoughts on Go performance optimization",
+                "homepage": null,
                 "id": 59398169,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-05T14:13:12Z",
+                "open_issues": 9,
                 "owner": "dgryski",
                 "repo": "go-perfbook",
-                "stars": 10896
+                "stars": 10897,
+                "topics": [
+                  "optimization",
+                  "performance",
+                  "performance-analysis",
+                  "performance-optimization"
+                ]
               },
               "first_seen": "2026-08-28T06:10:14.021Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Thoughts on Go performance optimization",
+            "homepage": null,
             "id": 59398169,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-05T14:13:12Z",
+            "open_issues": 9,
             "owner": "dgryski",
             "repo": "go-perfbook",
-            "stars": 10896
+            "stars": 10897,
+            "topics": [
+              "optimization",
+              "performance",
+              "performance-analysis",
+              "performance-optimization"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1164,12 +1941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go 每日一库",
+            "homepage": null,
             "id": 233408177,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-05-05T02:24:40Z",
+            "open_issues": 41,
             "owner": "darjun",
             "repo": "go-daily-lib",
-            "stars": 5231
+            "stars": 5231,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1180,12 +1962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等",
+            "homepage": null,
             "id": 162958667,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-31T09:09:06Z",
+            "open_issues": 0,
             "owner": "overnote",
             "repo": "over-golang",
-            "stars": 4473
+            "stars": 4473,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1196,12 +1983,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of advice and tricks for Go  ʕ◔ϖ◔ʔ",
+            "homepage": null,
             "id": 105425973,
             "language": "Go",
+            "license": "Unlicense",
             "last_commit": "2025-08-09T09:42:35Z",
+            "open_issues": 4,
             "owner": "cristaloleg",
             "repo": "go-advice",
-            "stars": 3293
+            "stars": 3293,
+            "topics": [
+              "advice",
+              "awesome",
+              "experience",
+              "go",
+              "golang",
+              "guide",
+              "guidelines"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1212,12 +2012,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go语言实战:  编写可维护Go语言代码建议",
+            "homepage": "https://dave.cheney.net/practical-go/presentations/qcon-china.html",
             "id": 156143281,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-29T10:10:03Z",
+            "open_issues": 0,
             "owner": "llitfkitfk",
             "repo": "go-best-practice",
-            "stars": 2319
+            "stars": 2319,
+            "topics": [
+              "best-practices",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1228,12 +2037,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GCTT Go中文网翻译组。",
+            "homepage": "https://studygolang.com/gctt",
             "id": 110936509,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-28T20:11:31Z",
+            "open_issues": 69,
             "owner": "studygolang",
             "repo": "GCTT",
-            "stars": 1372
+            "stars": 1372,
+            "topics": [
+              "chinese-translation",
+              "go",
+              "golang",
+              "open-source",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1244,12 +2064,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "@unknwon's opinionated and paranoid Go code convention.",
+            "homepage": null,
             "id": 19860581,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2021-05-19T07:35:33Z",
+            "open_issues": 0,
             "owner": "unknwon",
             "repo": "go-code-convention",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "code-conventions",
+              "coding-guidelines",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1260,12 +2089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoCN Translator Team(GoCN-TT)",
+            "homepage": null,
             "id": 178395033,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-21T05:39:04Z",
+            "open_issues": 3,
             "owner": "gocn",
             "repo": "translator",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         },
@@ -1276,12 +2110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang && Back-end Stack , Continually updated",
+            "homepage": null,
             "id": 174950790,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-04-25T07:49:48Z",
+            "open_issues": 0,
             "owner": "g-airport",
             "repo": "tech-stack",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
         }
@@ -1290,15 +2129,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:10:14.021Z",
+    "last_updated": "2026-08-29T03:44:05.016Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
+      "homepage": null,
       "id": 195628498,
       "language": "Go",
+      "license": null,
       "last_commit": "2024-05-18T05:18:28Z",
+      "open_issues": 0,
       "owner": "jiujuan",
       "repo": "go-collection",
-      "stars": 3165
+      "stars": 3165,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "course",
+        "gin",
+        "go",
+        "golang",
+        "guidelines",
+        "kit",
+        "micro",
+        "note",
+        "tour",
+        "training",
+        "tutorial"
+      ]
     },
     "original_repository_sha": "dd4f256fcf234d627681ffcaf1fce1be85177858",
     "enhanced_repository": "enhansome/enhansome-go-collection",
