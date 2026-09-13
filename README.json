@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "jiujuan",
             "repo": "go-collection",
-            "stars": 3166,
+            "stars": 3165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -54,7 +54,7 @@
             "open_issues": 0,
             "owner": "jiujuan",
             "repo": "go-collection",
-            "stars": 3166,
+            "stars": 3165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -91,11 +91,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:37:37Z",
-            "open_issues": 233,
+            "last_commit": "2026-09-12T19:39:06Z",
+            "open_issues": 231,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 183846,
+            "stars": 183953,
             "topics": [
               "awesome",
               "awesome-list",
@@ -173,7 +173,7 @@
             "open_issues": 15,
             "owner": "jobbole",
             "repo": "awesome-go-cn",
-            "stars": 7379,
+            "stars": 7377,
             "topics": [
               "go",
               "golang"
@@ -193,8 +193,8 @@
             "id": 193681900,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-11T01:05:47Z",
-            "open_issues": 233,
+            "last_commit": "2026-09-12T01:07:09Z",
+            "open_issues": 234,
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
             "stars": 5229,
@@ -231,7 +231,7 @@
             "open_issues": 2,
             "owner": "quii",
             "repo": "learn-go-with-tests",
-            "stars": 23873,
+            "stars": 23874,
             "topics": [
               "go",
               "golang",
@@ -258,7 +258,7 @@
             "open_issues": 2,
             "owner": "unknwon",
             "repo": "go-fundamental-programming",
-            "stars": 9118,
+            "stars": 9117,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
@@ -791,10 +791,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-11T19:53:32Z",
-            "open_issues": 253,
+            "open_issues": 252,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33326,
+            "stars": 33324,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -842,7 +842,7 @@
             "open_issues": 113,
             "owner": "go-kratos",
             "repo": "kratos",
-            "stars": 25922,
+            "stars": 25923,
             "topics": [
               "ai",
               "architecture",
@@ -1126,7 +1126,7 @@
             "open_issues": 137,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23052,
+            "stars": 23056,
             "topics": [
               "dogs-over-cats",
               "giant-robots",
@@ -1192,7 +1192,7 @@
             "open_issues": 139,
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43902,
+            "stars": 43901,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
@@ -1213,7 +1213,7 @@
             "open_issues": 46,
             "owner": "unknwon",
             "repo": "the-way-to-go_ZH_CN",
-            "stars": 35022,
+            "stars": 35021,
             "topics": [
               "book",
               "go",
@@ -1270,7 +1270,7 @@
             "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19663,
+            "stars": 19664,
             "topics": [
               "awesome",
               "awesome-go",
@@ -1500,7 +1500,7 @@
             "open_issues": 39,
             "owner": "uber-go",
             "repo": "guide",
-            "stars": 17702,
+            "stars": 17701,
             "topics": [
               "best-practices",
               "go",
@@ -1648,11 +1648,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T20:58:02Z",
-            "open_issues": 10120,
+            "last_commit": "2026-09-12T15:23:42Z",
+            "open_issues": 10118,
             "owner": "golang",
             "repo": "go",
-            "stars": 138425,
+            "stars": 138475,
             "topics": [
               "go",
               "golang",
@@ -1674,11 +1674,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T20:58:02Z",
-            "open_issues": 10120,
+            "last_commit": "2026-09-12T15:23:42Z",
+            "open_issues": 10118,
             "owner": "golang",
             "repo": "go",
-            "stars": 138425,
+            "stars": 138475,
             "topics": [
               "go",
               "golang",
@@ -1700,11 +1700,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T21:03:51Z",
-            "open_issues": 799,
+            "last_commit": "2026-09-12T11:19:33Z",
+            "open_issues": 802,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31446,
+            "stars": 31458,
             "topics": [
               "es6",
               "go",
@@ -1735,7 +1735,7 @@
             "open_issues": 7,
             "owner": "ossrs",
             "repo": "srs",
-            "stars": 29233,
+            "stars": 29237,
             "topics": [
               "ai-driven",
               "audio",
@@ -1777,7 +1777,7 @@
             "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19663,
+            "stars": 19664,
             "topics": [
               "awesome",
               "awesome-go",
@@ -1971,7 +1971,7 @@
             "open_issues": 0,
             "owner": "overnote",
             "repo": "over-golang",
-            "stars": 4473,
+            "stars": 4472,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
@@ -1992,7 +1992,7 @@
             "open_issues": 4,
             "owner": "cristaloleg",
             "repo": "go-advice",
-            "stars": 3293,
+            "stars": 3292,
             "topics": [
               "advice",
               "awesome",
@@ -2129,7 +2129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:21:48.319Z",
+    "last_updated": "2026-09-13T00:02:30.742Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
@@ -2141,7 +2141,7 @@
       "open_issues": 0,
       "owner": "jiujuan",
       "repo": "go-collection",
-      "stars": 3166,
+      "stars": 3165,
       "topics": [
         "awesome",
         "awesome-list",

@@ -6,10 +6,10 @@
 </a>
 </p>
 
-[![gostudy](https://img.shields.io/badge/golang-study-orange)](https://github.com/jiujuan/go-collection#目录) ⭐ 3,166 | 🐛 0 | 🌐 Go | 📅 2024-05-18
-[![GitHub stars](https://img.shields.io/github/stars/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/stargazers) ⭐ 3,166 | 🐛 0 | 🌐 Go | 📅 2024-05-18
-[![GitHub forks](https://img.shields.io/github/forks/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/network/members) ⭐ 3,166 | 🐛 0 | 🌐 Go | 📅 2024-05-18
-[![GitHub issues](https://img.shields.io/github/issues/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/issues) ⭐ 3,166 | 🐛 0 | 🌐 Go | 📅 2024-05-18
+[![gostudy](https://img.shields.io/badge/golang-study-orange)](https://github.com/jiujuan/go-collection#目录) ⭐ 3,165 | 🐛 0 | 🌐 Go | 📅 2024-05-18
+[![GitHub stars](https://img.shields.io/github/stars/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/stargazers) ⭐ 3,165 | 🐛 0 | 🌐 Go | 📅 2024-05-18
+[![GitHub forks](https://img.shields.io/github/forks/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/network/members) ⭐ 3,165 | 🐛 0 | 🌐 Go | 📅 2024-05-18
+[![GitHub issues](https://img.shields.io/github/issues/jiujuan/go-collection)](https://github.com/jiujuan/go-collection/issues) ⭐ 3,165 | 🐛 0 | 🌐 Go | 📅 2024-05-18
 
 > 收录的awesome-go项目，学习基础系列，go项目实战，go源码分析，go开发者成长路线图等等，把他们收集起来一起学习，相当于给写 Go 程序一个动手路线图。
 
@@ -26,9 +26,9 @@
 
 :mega: :mega: :mega:
 
-* :pencil2: 如果有的链接失效了，可以给我发[issues](https://github.com/jiujuan/go-collection/issues) ⭐ 3,166 | 🐛 0 | 🌐 Go | 📅 2024-05-18，灰常感谢！
+* :pencil2: 如果有的链接失效了，可以给我发[issues](https://github.com/jiujuan/go-collection/issues) ⭐ 3,165 | 🐛 0 | 🌐 Go | 📅 2024-05-18，灰常感谢！
 
-* :memo: 如果您觉得有好的golang教程、源码分析文章、书籍等等，都可以给我发[issues](https://github.com/jiujuan/go-collection/issues) ⭐ 3,166 | 🐛 0 | 🌐 Go | 📅 2024-05-18，灰常感谢！
+* :memo: 如果您觉得有好的golang教程、源码分析文章、书籍等等，都可以给我发[issues](https://github.com/jiujuan/go-collection/issues) ⭐ 3,165 | 🐛 0 | 🌐 Go | 📅 2024-05-18，灰常感谢！
 
 * :star: 基础部分和项目实战部分一定要打开编辑器，**动手写代码**【**动手**】，要一个字母一个字母敲出来，这样练习才会对学习 Go 基础有一定效果！
 
@@ -87,11 +87,11 @@
 
 ## awesome-go list
 
-* [awesome-go github地址](https://github.com/avelino/awesome-Go) ⭐ 183,846 | 🐛 233 | 🌐 Go | 📅 2026-09-10 awesome-go.com的github源码地址
+* [awesome-go github地址](https://github.com/avelino/awesome-Go) ⭐ 183,953 | 🐛 231 | 🌐 Go | 📅 2026-09-12 awesome-go.com的github源码地址
 * [awesome-go 一个更精细化项目](https://github.com/hackstoic/golang-open-source-projects) ⭐ 11,556 | 🐛 31 | 🌐 Go | 📅 2026-05-31 awesome-go的一个精细化项目，介绍更详细。本项目作为awesome-go的一个扩展
 * [gopher reading list](https://github.com/enocom/gopher-reading-list) ⭐ 8,045 | 🐛 30 | 📅 2025-11-25
-* [awesome-go 中文翻译1](https://github.com/jobbole/awesome-go-cn) ⭐ 7,379 | 🐛 15 | 📅 2024-05-22
-* [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn) ⭐ 5,229 | 🐛 233 | 📅 2026-09-11
+* [awesome-go 中文翻译1](https://github.com/jobbole/awesome-go-cn) ⭐ 7,377 | 🐛 15 | 📅 2024-05-22
+* [awesome-go 中文翻译2](https://github.com/yinggaozhen/awesome-go-cn) ⭐ 5,229 | 🐛 234 | 📅 2026-09-12
 * [awesome-go 网站](https://awesome-go.com/)   收集很多go的项目，并进行了详细分类
 
 ## go存储项目
@@ -101,11 +101,11 @@
 
 ## go基础学习系列
 
-* [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests) ⭐ 23,873 | 🐛 2 | 🌐 Go | 📅 2026-08-26
+* [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests) ⭐ 23,874 | 🐛 2 | 🌐 Go | 📅 2026-08-26
   * [gitbook版](https://quii.gitbook.io/learn-go-with-tests)
   * [中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 
-* [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming) ⭐ 9,118 | 🐛 2 | 🌐 Go | 📅 2023-10-27
+* [Go基础编程-by无闻](https://github.com/Unknwon/go-fundamental-programming) ⭐ 9,117 | 🐛 2 | 🌐 Go | 📅 2023-10-27
 
 * [golang cheatsheet](https://github.com/a8m/golang-cheat-sheet) ⭐ 8,824 | 🐛 24 | 📅 2023-11-08
 
@@ -214,12 +214,12 @@
 
 ## go-zero
 
-* [go-zero github](https://github.com/zeromicro/go-zero) ⭐ 33,326 | 🐛 253 | 🌐 Go | 📅 2026-09-11
+* [go-zero github](https://github.com/zeromicro/go-zero) ⭐ 33,324 | 🐛 252 | 🌐 Go | 📅 2026-09-11
 * [go-zero doc文档](https://go-zero.dev/cn/)
 
 ## kratos
 
-* [kratos](https://github.com/go-kratos/kratos) ⭐ 25,922 | 🐛 113 | 🌐 Go | 📅 2026-08-19 bilibili开源的一套微服务框架
+* [kratos](https://github.com/go-kratos/kratos) ⭐ 25,923 | 🐛 113 | 🌐 Go | 📅 2026-08-19 bilibili开源的一套微服务框架
   * [go-kratos](https://github.com/go-kratos)
 * [kratos 官网](https://go-kratos.dev/)
   * [kratos doc文档](https://go-kratos.dev/docs/)
@@ -268,18 +268,18 @@
 
 ## rpc
 
-* [gRPC-go](https://github.com/grpc/grpc-go) ⭐ 23,052 | 🐛 137 | 🌐 Go | 📅 2026-09-11
+* [gRPC-go](https://github.com/grpc/grpc-go) ⭐ 23,056 | 🐛 137 | 🌐 Go | 📅 2026-09-11
   * [grpc](https://github.com/grpc/)
 * [rpcx](https://github.com/smallnest/rpcx) ⭐ 8,316 | 🐛 4 | 🌐 Go | 📅 2026-09-03
   * [website](https://rpcx.io/)
 
 ## Go开源书籍
 
-* [Go Web编程](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,902 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-* [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN) ⭐ 35,022 | 🐛 46 | 🌐 Go | 📅 2024-08-14
+* [Go Web编程](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,901 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [the way to go 中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN) ⭐ 35,021 | 🐛 46 | 🌐 Go | 📅 2024-08-14
   * [看云版](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
 * [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md) ⭐ 20,093 | 🐛 61 | 🌐 Go | 📅 2025-10-07
-* [go books集合](https://github.com/dariubs/GoBooks) ⭐ 19,663 | 🐛 0 | 🌐 Go | 📅 2026-07-13
+* [go books集合](https://github.com/dariubs/GoBooks) ⭐ 19,664 | 🐛 0 | 🌐 Go | 📅 2026-07-13
 * [go语言42章经](https://github.com/ffhelicopter/Go42) ⭐ 5,176 | 🐛 6 | 🌐 Go | 📅 2024-06-04
 * [go under the hood](https://github.com/changkun/go-under-the-hood) ⭐ 4,352 | 🐛 0 | 🌐 HTML | 📅 2026-09-01
 * [Mastering Go 中文版](https://github.com/hantmac/Mastering_Go_ZH_CN) ⭐ 3,450 | 🐛 2 | 🌐 Go | 📅 2023-03-21
@@ -299,7 +299,7 @@
 
 ## Go编码规范
 
-* [the uber go style guide](https://github.com/uber-go/guide) ⭐ 17,702 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15 uber go style guide
+* [the uber go style guide](https://github.com/uber-go/guide) ⭐ 17,701 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15 uber go style guide
 * [awesome-go-style](https://github.com/dgryski/awesome-go-style) ⭐ 983 | 🐛 6 | 📅 2022-11-18 awesome go style
 
 ## 常见问题和错误
@@ -320,7 +320,7 @@
 
 ## Go交流社区
 
-* [Go issues](https://github.com/golang/go/issues) ⭐ 138,425 | 🐛 10,120 | 🌐 Go | 📅 2026-09-11
+* [Go issues](https://github.com/golang/go/issues) ⭐ 138,475 | 🐛 10,118 | 🌐 Go | 📅 2026-09-12
 * [GoCN社区](https://gocn.vip/)
 * [Go语言中文网](https://studygolang.com/)
 * [Golang中国](https://www.golangtc.com/)
@@ -330,15 +330,15 @@
 
 ## 其他
 
-* [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 138,425 | 🐛 10,120 | 🌐 Go | 📅 2026-09-11
+* [go官方语言编码规范](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 138,475 | 🐛 10,118 | 🌐 Go | 📅 2026-09-12
 
-* [Go wiki](https://github.com/golang/go/wiki) ⭐ 138,425 | 🐛 10,120 | 🌐 Go | 📅 2026-09-11
+* [Go wiki](https://github.com/golang/go/wiki) ⭐ 138,475 | 🐛 10,118 | 🌐 Go | 📅 2026-09-12
 
-* [测试工具 k6](https://github.com/grafana/k6) ⭐ 31,446 | 🐛 799 | 🌐 Go | 📅 2026-09-11
+* [测试工具 k6](https://github.com/grafana/k6) ⭐ 31,458 | 🐛 802 | 🌐 Go | 📅 2026-09-12
 
-* [Go开发关键技术指南](https://github.com/ossrs/srs/wiki/GoDevGuide) ⭐ 29,233 | 🐛 7 | 🌐 C++ | 📅 2026-09-05
+* [Go开发关键技术指南](https://github.com/ossrs/srs/wiki/GoDevGuide) ⭐ 29,237 | 🐛 7 | 🌐 C++ | 📅 2026-09-05
 
-* [List of Golang books](https://github.com/dariubs/GoBooks) ⭐ 19,663 | 🐛 0 | 🌐 Go | 📅 2026-07-13
+* [List of Golang books](https://github.com/dariubs/GoBooks) ⭐ 19,664 | 🐛 0 | 🌐 Go | 📅 2026-07-13
 
 * [Go夜读](https://github.com/talkgo/night) ⭐ 12,288 | 🐛 14 | 🌐 Go | 📅 2026-07-21
 
@@ -349,9 +349,9 @@
 
 * [go每日一库](https://github.com/darjun/go-daily-lib) ⭐ 5,228 | 🐛 41 | 🌐 Go | 📅 2023-05-05
 
-* [go各种自学资料总结](https://github.com/overnote/golang) ⭐ 4,473 | 🐛 0 | 📅 2026-05-31
+* [go各种自学资料总结](https://github.com/overnote/golang) ⭐ 4,472 | 🐛 0 | 📅 2026-05-31
 
-* [go-advice](https://github.com/cristaloleg/go-advice) ⭐ 3,293 | 🐛 4 | 🌐 Go | 📅 2025-08-09
+* [go-advice](https://github.com/cristaloleg/go-advice) ⭐ 3,292 | 🐛 4 | 🌐 Go | 📅 2025-08-09
 
 * [编写可维护 Go 语言代码建议](https://github.com/llitfkitfk/go-best-practice) ⭐ 2,320 | 🐛 0 | 📅 2022-08-29
 
@@ -386,4 +386,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
