@@ -5,82 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": ":pencil2: 如果有的链接失效了，可以给我发issues",
-          "description": "，灰常感谢！",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
-            "homepage": null,
-            "id": 195628498,
-            "language": "Go",
-            "license": null,
-            "last_commit": "2024-05-18T05:18:28Z",
-            "open_issues": 0,
-            "owner": "jiujuan",
-            "repo": "go-collection",
-            "stars": 3166,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "course",
-              "gin",
-              "go",
-              "golang",
-              "guidelines",
-              "kit",
-              "micro",
-              "note",
-              "tour",
-              "training",
-              "tutorial"
-            ]
-          },
-          "first_seen": "2026-08-28T06:10:14.021Z"
-        },
-        {
-          "node_type": "item",
-          "title": ":memo: 如果您觉得有好的golang教程、源码分析文章、书籍等等，都可以给我发issues",
-          "description": "，灰常感谢！",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
-            "homepage": null,
-            "id": 195628498,
-            "language": "Go",
-            "license": null,
-            "last_commit": "2024-05-18T05:18:28Z",
-            "open_issues": 0,
-            "owner": "jiujuan",
-            "repo": "go-collection",
-            "stars": 3166,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "course",
-              "gin",
-              "go",
-              "golang",
-              "guidelines",
-              "kit",
-              "micro",
-              "note",
-              "tour",
-              "training",
-              "tutorial"
-            ]
-          },
-          "first_seen": "2026-08-28T06:10:14.021Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "awesome-go github地址",
           "description": "awesome-go.com的github源码地址",
           "children": [],
@@ -95,7 +19,7 @@
             "open_issues": 234,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 186624,
+            "stars": 186647,
             "topics": [
               "awesome",
               "awesome-list",
@@ -134,7 +58,7 @@
         {
           "node_type": "item",
           "title": "gopher reading list",
-          "description": null,
+          "description": "enocom/gopher-reading-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +84,7 @@
         {
           "node_type": "item",
           "title": "awesome-go 中文翻译1",
-          "description": null,
+          "description": "jobbole/awesome-go-cn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -184,7 +108,7 @@
         {
           "node_type": "item",
           "title": "awesome-go 中文翻译2",
-          "description": null,
+          "description": "yinggaozhen/awesome-go-cn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,8 +117,8 @@
             "id": 193681900,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T02:20:58Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-03T01:58:36Z",
+            "open_issues": 255,
             "owner": "yinggaozhen",
             "repo": "awesome-go-cn",
             "stars": 5231,
@@ -218,7 +142,7 @@
         {
           "node_type": "item",
           "title": "Learn Go with test-driven development",
-          "description": null,
+          "description": "quii/learn-go-with-tests",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,7 +169,7 @@
         {
           "node_type": "item",
           "title": "Go基础编程-by无闻",
-          "description": null,
+          "description": "unknwon/go-fundamental-programming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +190,7 @@
         {
           "node_type": "item",
           "title": "golang cheatsheet",
-          "description": null,
+          "description": "a8m/golang-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -292,7 +216,7 @@
         {
           "node_type": "item",
           "title": "go命令教程",
-          "description": null,
+          "description": "hyper0x/go_command_tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +280,7 @@
         {
           "node_type": "item",
           "title": "go web开发教程",
-          "description": null,
+          "description": "bonfy/go-mega",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +305,7 @@
         {
           "node_type": "item",
           "title": "go语言快速入门",
-          "description": null,
+          "description": "jaywcjlove/golang-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -406,7 +330,7 @@
         {
           "node_type": "item",
           "title": "Go语言实战笔记",
-          "description": null,
+          "description": "flysnoworg/go-in-action-notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +356,7 @@
         {
           "node_type": "item",
           "title": "go exmaples",
-          "description": null,
+          "description": "yakuter/go-interfaces",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -467,7 +391,7 @@
         {
           "node_type": "item",
           "title": "企业级的 Go 语言实战项目",
-          "description": null,
+          "description": "marmotedu/iam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -498,7 +422,7 @@
         {
           "node_type": "item",
           "title": "go语言高级实战",
-          "description": null,
+          "description": "Shitaibin/golang_step_by_step",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -524,7 +448,7 @@
         {
           "node_type": "item",
           "title": "gin-vue 小项目",
-          "description": null,
+          "description": "Bingjian-Zhu/gin-vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -550,7 +474,7 @@
             {
               "node_type": "item",
               "title": "github代码地址",
-              "description": null,
+              "description": "youngxhui/GinHello",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +511,7 @@
         {
           "node_type": "item",
           "title": "雨痕Go语言学习笔记",
-          "description": null,
+          "description": "qyuhen/book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +532,7 @@
         {
           "node_type": "item",
           "title": "go-under-the-hood--欧长坤",
-          "description": null,
+          "description": "golang-design/under-the-hood",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,7 +610,7 @@
         {
           "node_type": "item",
           "title": "从Questions学习Go",
-          "description": null,
+          "description": "qcrao/go-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,7 +637,7 @@
         {
           "node_type": "item",
           "title": "nitro(原go-micro)",
-          "description": null,
+          "description": "micro/go-micro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,7 +673,7 @@
         {
           "node_type": "item",
           "title": "go-kit",
-          "description": null,
+          "description": "go-kit/kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -781,7 +705,7 @@
         {
           "node_type": "item",
           "title": "go-zero github",
-          "description": null,
+          "description": "zeromicro/go-zero",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -871,7 +795,7 @@
         {
           "node_type": "item",
           "title": "go-chassis",
-          "description": null,
+          "description": "go-chassis/go-chassis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,7 +904,7 @@
         {
           "node_type": "item",
           "title": "TarsFramework",
-          "description": null,
+          "description": "TarsCloud/TarsFramework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1011,7 +935,7 @@
         {
           "node_type": "item",
           "title": "stack-rpc-tutorials",
-          "description": null,
+          "description": "printfcoder/stack-rpc-tutorials",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1080,7 +1004,7 @@
         {
           "node_type": "item",
           "title": "odin",
-          "description": null,
+          "description": "tal-tech/odin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1113,7 +1037,7 @@
         {
           "node_type": "item",
           "title": "gRPC-go",
-          "description": null,
+          "description": "grpc/grpc-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1145,7 +1069,7 @@
         {
           "node_type": "item",
           "title": "rpcx",
-          "description": null,
+          "description": "smallnest/rpcx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1179,7 +1103,7 @@
         {
           "node_type": "item",
           "title": "Go Web编程",
-          "description": null,
+          "description": "astaxie/build-web-application-with-golang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1200,7 +1124,7 @@
         {
           "node_type": "item",
           "title": "the way to go 中文版",
-          "description": null,
+          "description": "unknwon/the-way-to-go_ZH_CN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1213,7 +1137,7 @@
             "open_issues": 46,
             "owner": "unknwon",
             "repo": "the-way-to-go_ZH_CN",
-            "stars": 35017,
+            "stars": 35016,
             "topics": [
               "book",
               "go",
@@ -1226,7 +1150,7 @@
         {
           "node_type": "item",
           "title": "Go语言高级编程",
-          "description": null,
+          "description": "chai2010/advanced-go-programming-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1257,7 +1181,7 @@
         {
           "node_type": "item",
           "title": "go books集合",
-          "description": null,
+          "description": "dariubs/GoBooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1270,7 +1194,7 @@
             "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19701,
+            "stars": 19702,
             "topics": [
               "awesome",
               "awesome-go",
@@ -1296,7 +1220,7 @@
         {
           "node_type": "item",
           "title": "go语言42章经",
-          "description": null,
+          "description": "ffhelicopter/Go42",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1323,7 +1247,7 @@
         {
           "node_type": "item",
           "title": "go under the hood",
-          "description": null,
+          "description": "golang-design/under-the-hood",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1348,7 +1272,7 @@
         {
           "node_type": "item",
           "title": "Mastering Go 中文版",
-          "description": null,
+          "description": "hantmac/Mastering_Go_ZH_CN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1371,7 +1295,7 @@
         {
           "node_type": "item",
           "title": "go实战开发",
-          "description": null,
+          "description": "astaxie/go-best-practice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1392,7 +1316,7 @@
         {
           "node_type": "item",
           "title": "go专家编程",
-          "description": null,
+          "description": "RainbowMango/GoExpertProgramming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1423,7 +1347,7 @@
             {
               "node_type": "item",
               "title": "go101 github",
-              "description": null,
+              "description": "go101/go101",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1454,7 +1378,7 @@
             {
               "node_type": "item",
               "title": "中文版",
-              "description": null,
+              "description": "golang101/golang101",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1540,7 +1464,7 @@
         {
           "node_type": "item",
           "title": "go语言爱好者周刊",
-          "description": null,
+          "description": "polaris1119/golangweekly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1565,7 +1489,7 @@
         {
           "node_type": "item",
           "title": "gopherdaily",
-          "description": null,
+          "description": "bigwhite/gopherdaily",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1590,12 +1514,12 @@
         {
           "node_type": "item",
           "title": "gocn每日新闻 一",
-          "description": null,
+          "description": "gocn/news",
           "children": [
             {
               "node_type": "item",
               "title": "go news 二",
-              "description": null,
+              "description": "Han-Ya-Jun/gocn_news_set",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1639,7 +1563,7 @@
         {
           "node_type": "item",
           "title": "go官方语言编码规范",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1649,10 +1573,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T21:55:53Z",
-            "open_issues": 10279,
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139129,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -1665,7 +1589,7 @@
         {
           "node_type": "item",
           "title": "Go wiki",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1675,10 +1599,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T21:55:53Z",
-            "open_issues": 10279,
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139129,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -1691,7 +1615,7 @@
         {
           "node_type": "item",
           "title": "测试工具 k6",
-          "description": null,
+          "description": "grafana/k6",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1704,7 +1628,7 @@
             "open_issues": 780,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31761,
+            "stars": 31763,
             "topics": [
               "es6",
               "go",
@@ -1722,7 +1646,7 @@
         {
           "node_type": "item",
           "title": "Go开发关键技术指南",
-          "description": null,
+          "description": "ossrs/srs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1764,7 +1688,7 @@
         {
           "node_type": "item",
           "title": "List of Golang books",
-          "description": null,
+          "description": "dariubs/GoBooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1777,7 +1701,7 @@
             "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19701,
+            "stars": 19702,
             "topics": [
               "awesome",
               "awesome-go",
@@ -1803,7 +1727,7 @@
         {
           "node_type": "item",
           "title": "Go夜读",
-          "description": null,
+          "description": "talkgo/night",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1816,7 +1740,7 @@
             "open_issues": 10,
             "owner": "talkgo",
             "repo": "night",
-            "stars": 12283,
+            "stars": 12284,
             "topics": [
               "bilibili",
               "bilibili-live",
@@ -1844,7 +1768,7 @@
         {
           "node_type": "item",
           "title": "Go 分布式事务框架 dtm",
-          "description": null,
+          "description": "dtm-labs/dtm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1884,12 +1808,12 @@
         {
           "node_type": "item",
           "title": "go性能优化",
-          "description": null,
+          "description": "dgryski/go-perfbook",
           "children": [
             {
               "node_type": "item",
               "title": "中文版",
-              "description": null,
+              "description": "dgryski/go-perfbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1937,7 +1861,7 @@
         {
           "node_type": "item",
           "title": "go每日一库",
-          "description": null,
+          "description": "darjun/go-daily-lib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1958,7 +1882,7 @@
         {
           "node_type": "item",
           "title": "go各种自学资料总结",
-          "description": null,
+          "description": "overnote/over-golang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1971,7 +1895,7 @@
             "open_issues": 0,
             "owner": "overnote",
             "repo": "over-golang",
-            "stars": 4475,
+            "stars": 4476,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:14.021Z"
@@ -1979,7 +1903,7 @@
         {
           "node_type": "item",
           "title": "go-advice",
-          "description": null,
+          "description": "cristaloleg/go-advice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2008,7 +1932,7 @@
         {
           "node_type": "item",
           "title": "编写可维护 Go 语言代码建议",
-          "description": null,
+          "description": "llitfkitfk/go-best-practice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2033,7 +1957,7 @@
         {
           "node_type": "item",
           "title": "GCTT",
-          "description": null,
+          "description": "studygolang/GCTT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2060,7 +1984,7 @@
         {
           "node_type": "item",
           "title": "无闻的go语言编码规范",
-          "description": null,
+          "description": "unknwon/go-code-convention",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2085,7 +2009,7 @@
         {
           "node_type": "item",
           "title": "GoCN Translator Team 翻译的文章",
-          "description": null,
+          "description": "gocn/translator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2106,7 +2030,7 @@
         {
           "node_type": "item",
           "title": "Go-stack tech-stack",
-          "description": null,
+          "description": "g-airport/tech-stack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2129,7 +2053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:13:52.502Z",
+    "last_updated": "2026-10-03T04:48:04.744Z",
     "original_repository_info": {
       "archived": false,
       "description": ":tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。",
